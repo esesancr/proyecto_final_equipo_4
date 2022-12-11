@@ -9,7 +9,7 @@
 |--------------|---------------------------|------|-----------------|
 | leonfgz48    |Leon Felipe Gomez Zarza    |  1   | Programación    |
 | afuentesc    |Alberto Fuentes Chavarria  |  1   | Programación    |
-| RGGA90       |Ricardo Guillermo Granillo |  2   | Revisión        |
+| RGGA90       |Ricardo Guillermo Granillo Alatorre |  2   | Revisión        |
 | esesancr     |Sergio Sánchez Reyes       |  3   | Project Manager |
 
 # Introducción: 
